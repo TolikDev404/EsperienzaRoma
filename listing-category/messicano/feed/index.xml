@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Messicano &#8211; ProntoSocialChef</title>
+	<atom:link href="https://prontosocialchef.it/listing-category/messicano/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prontosocialchef.it</link>
+	<description>Primo portale di Chef privati a casa tua!</description>
+	<lastBuildDate>Mon, 18 Dec 2023 14:15:02 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://prontosocialchef.it/wp-content/uploads/2023/05/cropped-IconLogo-PRONTOSOCIALFOOD-32x32.png</url>
+	<title>Messicano &#8211; ProntoSocialChef</title>
+	<link>https://prontosocialchef.it</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Giovanni Morettini &#124; Specialità Messicano</title>
+		<link>https://prontosocialchef.it/listing/giovanni-morettini-specialita-messicano/</link>
+					<comments>https://prontosocialchef.it/listing/giovanni-morettini-specialita-messicano/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 16:10:23 +0000</pubDate>
+				<guid isPermaLink="false">https://prontosocialchef.it/?post_type=listing&#038;p=6966</guid>
+
+					<description><![CDATA[Specialità: Messicano Servizio a Domicilio Tariffa: 55€/ L’Ora BIO: Giovanni Morettini, l’enigmatico chef della cucina messicana a Roma, incanta i palati con la sua maestria culinaria intrisa delle radici messicane dei suoi genitori. Con 17 anni di esperienza, Giovanni è il custode di autentiche delizie messicane, portando il calore e la passione del Messico nel [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Messicano</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 55€/ L’Ora</strong><br />
+<strong>BIO:</strong></h2>
+<h4><strong>Giovanni Morettini</strong>, l’enigmatico chef della cucina messicana a Roma, incanta i palati con la sua maestria culinaria intrisa delle radici messicane dei suoi genitori. Con 17 anni di esperienza, Giovanni è il custode di autentiche delizie messicane, portando il calore e la passione del Messico nel cuore di Roma. La sua cucina è un viaggio sensoriale attraverso sapori vibranti e tradizioni culinarie millenarie. Con la maestria di un virtuoso e la passione di un narratore, Giovanni trasforma ogni piatto in una festa di sapori, invitando gli ospiti a immergersi in un’esperienza culinaria senza precedenti.</h4>
+<h4>Scoprite la magia della cucina messicana di Giovanni Morettini, dove il Messico e Roma si incontrano in un’esplosione di gusto e autenticità.</h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/giovanni-morettini-specialita-messicano/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alessandra Rodriguez &#124; Specialità Messicano</title>
+		<link>https://prontosocialchef.it/listing/alessandra-rodriguez-specialita-messicano/</link>
+					<comments>https://prontosocialchef.it/listing/alessandra-rodriguez-specialita-messicano/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 13:09:22 +0000</pubDate>
+				<guid isPermaLink="false">https://prontosocialchef.it/?post_type=listing&#038;p=6941</guid>
+
+					<description><![CDATA[Specialità: Messicano Servizio a Domicilio Tariffa: 35€/ L’Ora BIO: Alessandra Rodriguez, la visionaria chef dell’arte culinaria messicana, ha incantato gli amanti del cibo messicano, in Italia per oltre 10 anni. Nata con il cuore italiano e l’anima messicana, Alexandra ha viaggiato per tutta la penisola, portando con sé l’esplosione di sapori e colori della cucina [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Messicano</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 35€/ L’Ora</strong><br />
+<strong>BIO:</strong></h2>
+<h4><strong>Alessandra Rodriguez,</strong> la visionaria chef dell’arte culinaria messicana, ha incantato gli amanti del cibo messicano, in Italia per oltre 10 anni. Nata con il cuore italiano e l’anima messicana, Alexandra ha viaggiato per tutta la penisola, portando con sé l’esplosione di sapori e colori della cucina messicana. Con una maestria culinaria che fonde tradizioni antiche e creatività contemporanea, Alessandra è la protagonista di un viaggio gastronomico unico. La sua passione traspare in ogni piatto, trasformando il pranzo o la cena in un’esperienza indimenticabile.</h4>
+<h4>Lasciatevi avvolgere dai sapori autentici del Messico, orchestrati magistralmente da <strong>Alessandra Rodriguez,</strong> e scoprite la magia di un connubio tra Italia e Messico che delizierà i vostri sensi.</h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/alessandra-rodriguez-specialita-messicano/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

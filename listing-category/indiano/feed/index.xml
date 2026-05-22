@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Indiano &#8211; ProntoSocialChef</title>
+	<atom:link href="https://prontosocialchef.it/listing-category/indiano/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prontosocialchef.it</link>
+	<description>Primo portale di Chef privati a casa tua!</description>
+	<lastBuildDate>Mon, 18 Dec 2023 14:10:26 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://prontosocialchef.it/wp-content/uploads/2023/05/cropped-IconLogo-PRONTOSOCIALFOOD-32x32.png</url>
+	<title>Indiano &#8211; ProntoSocialChef</title>
+	<link>https://prontosocialchef.it</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ishwar Kirams &#124; Specialità Indiano</title>
+		<link>https://prontosocialchef.it/listing/ishwar-kirams-specialita-indiano/</link>
+					<comments>https://prontosocialchef.it/listing/ishwar-kirams-specialita-indiano/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 11:41:30 +0000</pubDate>
+				<guid isPermaLink="false">https://prontosocialchef.it/?post_type=listing&#038;p=6934</guid>
+
+					<description><![CDATA[Specialità: Indiano Servizio a Domicilio Tariffa: 55€/ L’Ora BIO: Ishwar Kirams, mago della cucina indiana con 12 anni di esperienza, ha portato l’esplosione di sapori del subcontinente nel cuore di Roma. I suoi primi passi nel mondo culinario risuonano con gli aromi speziati della sua infanzia in India, dove ha scoperto l’amore per le diverse [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Indiano</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 55€/ L’Ora</strong><br />
+<strong>BIO:</strong></h2>
+<h4><strong>Ishwar Kirams,</strong> mago della cucina indiana con 12 anni di esperienza, ha portato l’esplosione di sapori del subcontinente nel cuore di Roma. I suoi primi passi nel mondo culinario risuonano con gli aromi speziati della sua infanzia in India, dove ha scoperto l’amore per le diverse spezie e le tecniche culinarie uniche.<br />
+La sua esperienza formativa più incisiva è stata un viaggio culinario tra le vie di Delhi, dove ha perfezionato le arti complesse della cucina indiana. Qui, ha scoperto l’importanza di bilanciare i sapori e la magia delle spezie fresche, segnando un capitolo fondamentale nel suo sviluppo come chef.</h4>
+<h4><strong>Ishwar,</strong> con la sua passione infuocata e la capacità di trasformare ogni piatto in un’esperienza sensoriale, continua a illuminare Roma con la vivace ricchezza della cucina indiana.</h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/ishwar-kirams-specialita-indiano/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Amal Deeppak &#124; Specialità Indiano</title>
+		<link>https://prontosocialchef.it/listing/amal-deeppak-specialita-indiano/</link>
+					<comments>https://prontosocialchef.it/listing/amal-deeppak-specialita-indiano/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 11:20:16 +0000</pubDate>
+				<guid isPermaLink="false">https://prontosocialchef.it/?post_type=listing&#038;p=6930</guid>
+
+					<description><![CDATA[Specialità: Indiano Servizio a Domicilio Tariffa: 35€/ L’Ora BIO: Amal Deeppak, virtuoso della cucina indiana con 10 anni di esperienza, ha portato la magia delle spezie e la ricchezza dei sapori del subcontinente a Roma. La sua esperienza formativa più impattante è stata un’apprendistato nei bazar di Mumbai, dove ha affinato le sue abilità culinarie [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Indiano</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 35€/ L’Ora</strong><br />
+<strong>BIO:</strong></h2>
+<h4><strong>Amal Deeppak</strong>, virtuoso della cucina indiana con 10 anni di esperienza, ha portato la magia delle spezie e la ricchezza dei sapori del subcontinente a Roma.<br />
+La sua esperienza formativa più impattante è stata un’apprendistato nei bazar di Mumbai, dove ha affinato le sue abilità culinarie immergendosi nelle tecniche tradizionali della cucina indiana.</h4>
+<h4><strong>Amal Deeppak</strong>, con la sua passione contagiosa e l’amore per la tradizione culinaria, continua a trasformare ogni pasto in un viaggio gustativo che celebra la ricca eredità della cucina indiana.</h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/amal-deeppak-specialita-indiano/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bio &#8211; ProntoSocialChef</title>
+	<atom:link href="https://prontosocialchef.it/listing-category/bio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prontosocialchef.it</link>
+	<description>Primo portale di Chef privati a casa tua!</description>
+	<lastBuildDate>Mon, 18 Dec 2023 13:57:57 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://prontosocialchef.it/wp-content/uploads/2023/05/cropped-IconLogo-PRONTOSOCIALFOOD-32x32.png</url>
+	<title>Bio &#8211; ProntoSocialChef</title>
+	<link>https://prontosocialchef.it</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sofia Bianchini &#124; Specialità Bio</title>
+		<link>https://prontosocialchef.it/listing/sofia-bianchi-specialita-bio-2/</link>
+					<comments>https://prontosocialchef.it/listing/sofia-bianchi-specialita-bio-2/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 16:21:17 +0000</pubDate>
+				<guid isPermaLink="false">https://prontosocialchef.it/?post_type=listing&#038;p=6969</guid>
+
+					<description><![CDATA[Specialità: Bio Servizio a Domicilio Tariffa: 55€/ L’Ora BIO: Sofia Bianchini, la stella brillante della cucina Bio kosher, incarna l’eleganza e la maestria culinaria con oltre 25 anni di esperienza. Chef appassionata e visionaria, Sofia trasforma gli ingredienti kosher in opere d’arte gastronomiche. Il suo percorso culinario è un viaggio attraverso sapori ricchi e tradizioni, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Bio</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 55€/ L’Ora</strong><br />
+<strong>BIO:</strong></h2>
+<h4><strong>Sofia Bianchini,</strong> la stella brillante della cucina Bio kosher, incarna l’eleganza e la maestria culinaria con oltre 25 anni di esperienza. Chef appassionata e visionaria, Sofia trasforma gli ingredienti kosher in opere d’arte gastronomiche. Il suo percorso culinario è un viaggio attraverso sapori ricchi e tradizioni, dove ogni piatto è una sinfonia di gusto e cultura. Con una maestria acquisita nel corso degli anni, Sofia porta avanti la sua missione di creare esperienze gastronomiche indimenticabili.</h4>
+<h4>Lasciate che la cucina Bio kosher di Sofia Bianchini vi guidi in un mondo di delizie culinarie, dove la passione si fonde con la perfezione in ogni boccone.</h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/sofia-bianchi-specialita-bio-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Matteo Espositore &#124; Specialità Bio</title>
+		<link>https://prontosocialchef.it/listing/matteo-espositore-specialita-bio/</link>
+					<comments>https://prontosocialchef.it/listing/matteo-espositore-specialita-bio/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 15:27:34 +0000</pubDate>
+				<guid isPermaLink="false">https://prontosocialchef.it/?post_type=listing&#038;p=6960</guid>
+
+					<description><![CDATA[Specialità: Bio Servizio a Domicilio Tariffa: 35€/ L’Ora BIO: Matteo Espositore, chef esperto in cucina tradizionale kosher, è nato a Tel Aviv e vanta 25 anni di esperienza culinaria. Ha lavorato nei migliori ristoranti di Milano e Roma, portando la sua maestria in cucina a nuovi livelli. La sua passione per la cucina kosher si [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>Specialità: Bio<br />
+Servizio a Domicilio<br />
+Tariffa: 35€/ L’Ora<br />
+BIO:</h2>
+<h4><strong>Matteo Espositore</strong>, chef esperto in cucina tradizionale kosher, è nato a Tel Aviv e vanta 25 anni di esperienza culinaria. Ha lavorato nei migliori ristoranti di Milano e Roma, portando la sua maestria in cucina a nuovi livelli. La sua passione per la cucina kosher si riflette nelle sue creazioni gastronomiche, che deliziano i palati con autenticità e qualità. Matteo ha dedicato la sua vita alla perfezione culinaria, contribuendo a rendere la cucina kosher una vera esperienza sensoriale.</h4>
+<h4>Con un background così ricco, continua a regalare momenti gastronomici indimenticabili attraverso la sua abilità culinaria impeccabile.</h4>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/matteo-espositore-specialita-bio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

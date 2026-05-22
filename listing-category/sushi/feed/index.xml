@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sushi &#8211; ProntoSocialChef</title>
+	<atom:link href="https://prontosocialchef.it/listing-category/sushi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prontosocialchef.it</link>
+	<description>Primo portale di Chef privati a casa tua!</description>
+	<lastBuildDate>Mon, 18 Dec 2023 15:10:09 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://prontosocialchef.it/wp-content/uploads/2023/05/cropped-IconLogo-PRONTOSOCIALFOOD-32x32.png</url>
+	<title>Sushi &#8211; ProntoSocialChef</title>
+	<link>https://prontosocialchef.it</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tida Kanya &#124; Specialità Sushi</title>
+		<link>https://prontosocialchef.it/listing/tida-kanya-specialita-sushi/</link>
+					<comments>https://prontosocialchef.it/listing/tida-kanya-specialita-sushi/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Mon, 27 Nov 2023 10:22:40 +0000</pubDate>
+				<guid isPermaLink="false">https://p-socialfood.shop/?post_type=listing&#038;p=6486</guid>
+
+					<description><![CDATA[Specialità: Sushi Servizio a Domicilio Tariffa: 35€/ L’Ora BIO: Antonio Colombo, il rivoluzionario chef della cucina kosher, incanta i palati da oltre 15 anni con la sua maestria culinaria senza eguali. Noto per la sua passione contagiosa e il suo impegno per l&#8217;eccellenza, Antonio trasforma ogni piatto in un&#8217;esperienza culinaria straordinaria. Le sue creazioni, permeate [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Sushi</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 35€/ L’Ora</strong></h2>
+<h3><strong>BIO:</strong></h3>
+<h4>Antonio Colombo, il rivoluzionario chef della cucina kosher, incanta i palati da oltre 15 anni con la sua maestria culinaria senza eguali. Noto per la sua passione contagiosa e il suo impegno per l&#8217;eccellenza, Antonio trasforma ogni piatto in un&#8217;esperienza culinaria straordinaria. Le sue creazioni, permeate di creatività e rispetto per le tradizioni kosher, hanno guadagnato il plauso internazionale. Con un tocco magico e un&#8217;anima appassionata, Antonio Colombo non è solo uno chef, ma un maestro nell&#8217;arte di coniugare gusto e tradizione.</h4>
+<h4>Lasciatevi trasportare in un viaggio gastronomico unico, dove ogni piatto è una celebrazione della cucina kosher sotto la guida esperta di Antonio Colombo.</h4>
+<h3><strong> </strong></h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/tida-kanya-specialita-sushi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Franco Swang &#124; Specialità Sushi</title>
+		<link>https://prontosocialchef.it/listing/franco-swang-specialita-sushi/</link>
+					<comments>https://prontosocialchef.it/listing/franco-swang-specialita-sushi/#respond</comments>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2023 16:57:34 +0000</pubDate>
+				<guid isPermaLink="false">https://p-socialfood.shop/?post_type=listing&#038;p=6460</guid>
+
+					<description><![CDATA[Specialità: Sushi Servizio a Domicilio Tariffa: 55€/ L’Ora BIO: Franco Swang, chef di sushi con radici asiatiche, ha dedicato la sua vita alla passione per il sushi. Riconosciuto in Francia, Italia e Giappone, Franco ha arricchito il suo menu grazie ai viaggi e all&#8217;immersione nelle tradizioni culinarie. La sua maestria nel preparare sushi è evidente [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Specialità: Sushi</strong><br />
+<strong>Servizio a Domicilio</strong><br />
+<strong>Tariffa: 55€/ L’Ora</strong></h2>
+<h3><strong>BIO:</strong></h3>
+<h4><strong>Franco Swang</strong>, chef di sushi con radici asiatiche, ha dedicato la sua vita alla passione per il sushi. Riconosciuto in Francia, Italia e Giappone, Franco ha arricchito il suo menu grazie ai viaggi e all&#8217;immersione nelle tradizioni culinarie. La sua maestria nel preparare sushi è evidente in ogni dettaglio, offrendo esperienze gastronomiche straordinarie. Franco ha portato il meglio delle tradizioni giapponesi, mescolandole con influenze internazionali, creando un connubio unico di sapori.</h4>
+<h4>Il suo impegno nell&#8217;eccellenza culinaria lo rende un punto di riferimento per gli amanti del sushi a Roma.</h4>
+<h3><strong> </strong></h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prontosocialchef.it/listing/franco-swang-specialita-sushi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
