@@ -1,6 +1,6 @@
 <?php
 /**
- * Updates network administration panel.
+ * Network Plugins administration panel.
  *
  * @package WordPress
  * @subpackage Multisite
@@ -10,4 +10,4 @@
 /** Load WordPress Administration Bootstrap */
 require_once __DIR__ . '/admin.php';
 
-require ABSPATH . 'wp-admin/update-core.php';
+require ABSPATH . 'wp-admin/plugins.php';

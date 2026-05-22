@@ -1,13 +1,13 @@
 <?php
 /**
- * Updates network administration panel.
+ * Network Contribute administration panel.
  *
  * @package WordPress
  * @subpackage Multisite
- * @since 3.1.0
+ * @since 6.3.0
  */
 
 /** Load WordPress Administration Bootstrap */
 require_once __DIR__ . '/admin.php';
 
-require ABSPATH . 'wp-admin/update-core.php';
+require ABSPATH . 'wp-admin/contribute.php';
