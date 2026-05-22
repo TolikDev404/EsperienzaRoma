@@ -1,0 +1,82 @@
+# Translation of Plugins - Fixed Widget and Sticky Elements for WordPress - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Fixed Widget and Sticky Elements for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-30 07:36:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Fixed Widget and Sticky Elements for WordPress - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+#: q2w3-fixed-widget.php:293 q2w3-fixed-widget.php:391 js/backend.js:1409
+msgid "Fixed Widget"
+msgstr "Fixed Widget"
+
+#: q2w3-fixed-widget.php:537
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: q2w3-fixed-widget.php:508
+msgid "Install Now"
+msgstr "Installa ora"
+
+#: q2w3-fixed-widget.php:505
+msgid "Activate Now"
+msgstr "Attiva ora"
+
+#: q2w3-fixed-widget.php:454
+msgid " Works like the Minimum Width option."
+msgstr " Funziona come l'opzione larghezza minima."
+
+#: q2w3-fixed-widget.php:415
+msgid " Note for users of caching plugins. Please, don’t forget to clear the cache after changing options."
+msgstr "Nota per gli utenti dei plugin di cache: non dimenticare di cancellare la cache dopo aver cambiato le opzioni."
+
+#: q2w3-fixed-widget.php:387
+msgid "Documentation and Support"
+msgstr "Documentazione e supporto"
+
+#: q2w3-fixed-widget.php:386
+msgid "Recommended Integration"
+msgstr "Integrazione consigliata"
+
+#. Description of the plugin
+msgid "Use the fixed widget plugin to create sticky widgets that stay in the visible screen area when the page is scrolled up or down and boost your conversions."
+msgstr "Il plugin permette di bloccare lo scorrimento dei widget e mantenerli visibili nella colonna del sito quando la pagina viene fatta scorrere verso l'alto, migliorando così le tue conversioni."
+
+#. Plugin URI of the plugin
+msgid "https://wpadvancedads.com/fixed-widget-wordpress/"
+msgstr "https://wpadvancedads.com/fixed-widget-wordpress/"
+
+#: q2w3-fixed-widget.php:480
+msgid "Margin Bottom"
+msgstr "Margine inferiore"
+
+#: q2w3-fixed-widget.php:453 q2w3-fixed-widget.php:454
+#: q2w3-fixed-widget.php:479 q2w3-fixed-widget.php:480
+msgid "px"
+msgstr "px"
+
+#: q2w3-fixed-widget.php:479
+msgid "Margin Top"
+msgstr "Margine superiore"
+
+#: q2w3-fixed-widget.php:417
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: q2w3-fixed-widget.php:394
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: q2w3-fixed-widget.php:383
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: q2w3-fixed-widget.php:263
+msgid "Fixed widget"
+msgstr "Fixed Widget"
