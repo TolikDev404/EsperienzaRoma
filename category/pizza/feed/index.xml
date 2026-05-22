@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pizza &#8211; ProntoSocialChef</title>
+	<atom:link href="https://prontosocialchef.it/category/pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prontosocialchef.it</link>
+	<description>Primo portale di Chef privati a casa tua!</description>
+	<lastBuildDate>Tue, 26 Sep 2023 10:34:37 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://prontosocialchef.it/wp-content/uploads/2023/05/cropped-IconLogo-PRONTOSOCIALFOOD-32x32.png</url>
+	<title>Pizza &#8211; ProntoSocialChef</title>
+	<link>https://prontosocialchef.it</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pizza Diavola</title>
+		<link>https://prontosocialchef.it/pizza-diavola/</link>
+		
+		<dc:creator><![CDATA[PSYSJAN]]></dc:creator>
+		<pubDate>Tue, 02 May 2023 22:43:11 +0000</pubDate>
+				<category><![CDATA[Pizza]]></category>
+		<guid isPermaLink="false">https://listeo.staging.wpengine.com/?p=951</guid>
+
+					<description><![CDATA[Ricetta per preparare una deliziosa Pizza Diavola La Pizza Diavola è una delle variazioni più piccanti e apprezzate della pizza italiana. Questo piatto ha le sue radici nel Sud Italia, in particolare nella regione della Campania. La parola &#8220;Diavola&#8221; fa riferimento al carattere piccante della pizza, grazie all&#8217;uso del salame piccante, del peperoncino e di [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>Ricetta per preparare una deliziosa Pizza Diavola</h2>
+<div class="post-quote">
+<blockquote><p>La Pizza Diavola è una delle variazioni più piccanti e apprezzate della pizza italiana. Questo piatto ha le sue radici nel Sud Italia, in particolare nella regione della Campania. La parola &#8220;Diavola&#8221; fa riferimento al carattere piccante della pizza, grazie all&#8217;uso del salame piccante, del peperoncino e di altri ingredienti ardenti.</p></blockquote>
+</div>
+<h2><strong>Ingredienti per la pizza:</strong></h2>
+<ul>
+<li>1 base per pizza (puoi comprarla pronta o prepararla in casa)</li>
+<li>200 g di pomodoro passata</li>
+<li>150 g di mozzarella di bufala, tagliata a cubetti o strappata a mano</li>
+<li>100 g di salame piccante (tipo salame calabrese o peperoncino), affettato sottilmente</li>
+<li>Peperoncino fresco o peperoncino in scaglie, a piacere</li>
+<li>Olio d&#8217;oliva extravergine</li>
+<li>Sale e pepe nero macinato fresco</li>
+<li>Foglie di basilico fresco</li>
+</ul>
+<h2><strong>Preparazione:</strong></h2>
+<ol>
+<li>Preriscalda il forno al massimo (solitamente intorno ai 250°C) per almeno 30 minuti. Assicurati che la pietra o la teglia per la pizza siano all&#8217;interno del forno in modo che si riscaldino bene.</li>
+<li>Stendi la base per pizza su una superficie leggermente infarinata o su carta pergamena. Se desideri una pizza sottile, stendi la pasta molto sottile; se preferisci una pizza più spessa, lasciala un po&#8217; più spessa.</li>
+<li>Spalma uniformemente la pomodoro passata sulla base della pizza, lasciando un bordo di circa un centimetro intorno.</li>
+<li>Distribuisci il formaggio mozzarella sulla salsa di pomodoro. Assicurati di coprire bene tutta la superficie.</li>
+<li>Aggiungi il salame piccante sulla mozzarella. Se vuoi un tocco extra di piccantezza, spolvera un po&#8217; di peperoncino fresco o scaglie di peperoncino sulla pizza.</li>
+<li>Aggiungi un filo d&#8217;olio d&#8217;oliva extravergine sulla pizza e una leggera macinata di pepe nero fresco.</li>
+<li>Trasferisci la pizza nel forno preriscaldato, posizionandola direttamente sulla pietra o sulla teglia ben calda. Cuoci la pizza per 10-12 minuti o fino a quando il bordo diventa dorato e croccante e il formaggio è fuso e leggermente dorato.</li>
+<li>Appena sfornata, guarnisci la pizza con alcune foglie di basilico fresco per un tocco di freschezza.</li>
+<li>Taglia la Pizza Diavola in fette generose e servi calda.</li>
+</ol>
+<p><strong>La Storia della Pizza Diavola:</strong></p>
+<p>La Pizza Diavola è una celebrazione della cucina italiana e del suo amore per i sapori audaci. La combinazione del salame piccante e del formaggio fuso crea un&#8217;esplosione di sapore che soddisferà chiunque ami il piccante. Questa pizza ha guadagnato popolarità in tutto il mondo e continua a essere una delle scelte preferite tra gli amanti della pizza.</p>
+<p>Ogni morso di Pizza Diavola è un viaggio gustativo attraverso la passione e la tradizione culinaria italiana, con il calore del peperoncino che si mescola con la cremosità del formaggio e la freschezza del basilico. È una vera delizia per il palato e un tributo alla cucina italiana.</p>
+<h2>Buon appetito!</h2>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
